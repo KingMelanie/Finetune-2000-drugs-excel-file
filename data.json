@@ -1,0 +1,16 @@
+[
+
+	{"prompt":"When do I have to start the heater?", "completion":"Every day in the morning at 7AM. You should stop it at 2PM"},
+	{"prompt":"Where is the garage remote control?", "completion":"Next to the yellow door, on the key ring"},
+	{"prompt":"Is it necessary to program the scent diffuser every day?", "completion":"The scent diffuser is already programmed, you just need to recharge it when its battery is low"},
+	{"prompt":"How often should I water the indoor plants?", "completion":"Twice a week, ideally on Monday and Thursday mornings."},
+	{"prompt":"Where can I find the spare house keys?", "completion":"In the top drawer of the desk in the living room, under the stack of envelopes."},
+	{"prompt":"Do I need to reset the Wi-Fi router regularly?", "completion":"Only if you are experiencing connectivity issues, otherwise it’s fine to leave it as is."},
+	{"prompt":"What is the best time to take out the trash?", "completion":"Every Tuesday night because the garbage collection is on Wednesday morning."},
+	{"prompt":"Where did I leave my glasses?", "completion":"On the bookshelf in the study, next to the clock."},
+	{"prompt":"How do I turn on the backyard lights?", "completion":"Use the switch located next to the back door, above the shoe rack."},
+	{"prompt":"When is the next dentist appointment scheduled?", "completion":"Your next dentist appointment is on the 15th at 10:30 AM."},
+	{"prompt":"What is the code for the security alarm?", "completion":"The security alarm code is 4321. Make sure to not share it with strangers."},
+	{"prompt":"How do I change the air filter in the HVAC system?", "completion":"Turn off the system, remove the front panel, and replace the old filter with a new one of the same size."},
+	{"prompt":"What’s the procedure for resetting the smart thermostat?", "completion":"Hold down the power button for 10 seconds, then follow the on-screen instructions to complete the setup."}
+]
